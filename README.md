@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm CoolSpring8
 
 ```
-- Interested in creating interesting things
+- Interested in crafting interesting things
 - Passionate about modern front-end web development
 - Often make statements rather long and complicated ; }
 -                                                   ^ *statement* ends here
