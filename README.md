@@ -2,7 +2,7 @@
 
 ```
 - Interested in creating interesting things
-- Passionate about front-end web development
+- Passionate about modern front-end web development
 - Often make statements rather long and complicated ; }
 -                                                   ^ *statement* ends here
 ```
