@@ -1,10 +1,15 @@
-### Hi there 👋 I'm CoolSpring8
+<h3 align="center">Hi there, I'm CoolSpring8👋</h3>
+
+<p align="center">
+  <a href="https://coolspr.ing">Blog</a>
+</p>
+
+##### About Me
+
+- Passionate about exploring innovative designs
+- Thrilled by challenges that push the boundaries of the web
 
 ```
-- Interested in crafting interesting things
-- Passionate about modern front-end web development
-- Often make statements rather long and complicated ; }
-                                                    ^ _statement_ ends here
+Fun fact 1: Often make statements long and complicated ; }
+Fun fact 2:                                            ^ statement ends here
 ```
-
-<!--![CoolSpring8's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoolSpring8&count_private=true&show_icons=true&theme=gruvbox&hide_border=true)-->
