@@ -10,6 +10,7 @@
 - Thrilled by challenges that push the boundaries of the web
 
 ```
-Fun fact 1: Often make statements long and complicated ; }
-Fun fact 2:                                            ^ statement ends here
+Fun fact
+1. Often make statements long and complicated ; }
+2.                                            ^ statement ends here
 ```
